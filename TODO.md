@@ -1,3 +1,3 @@
 [ ] intro to Qiskit
-	[ ] install Qiskit
+	[ ] install Qiskit -- pip install qiskit
 
