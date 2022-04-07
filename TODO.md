@@ -1,3 +1,5 @@
 [ ] intro to Qiskit
-	[ ] install Qiskit -- pip install qiskit
+	[x] install Qiskit -- pip install qiskit
+	[ ] install Qiskit Visualizations -- pip install qiskit[visualizations]
+
 
